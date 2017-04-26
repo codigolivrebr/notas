@@ -21,6 +21,7 @@
 - [ ] [Prolog programming: a do-it-yourself course for beginners](http://cs.union.edu/~striegnk/courses/esslli04prolog/)
 - [ ] [PureScript by Example](https://leanpub.com/purescript/read)
 - [ ] [Google  Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+- [ ] [Four steps to Google without a degree](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e)
 
 ## Articles
 - [ ] [The programming talent myth](https://lwn.net/Articles/641779/)
