@@ -22,6 +22,7 @@
 - [ ] [PureScript by Example](https://leanpub.com/purescript/read)
 - [ ] [Google  Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 - [ ] [Four steps to Google without a degree](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e)
+- [ ] [Links about Machine Learning](https://github.com/CodingTrain/Machine-Learning)
 
 ## Articles
 - [ ] [The programming talent myth](https://lwn.net/Articles/641779/)
