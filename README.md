@@ -42,3 +42,4 @@
 - [OpenStax](https://openstax.org/subjects) - Open and Free books
 - [Amber Smalltalk](http://www.amber-lang.net/)
 - [YOU DON'T KNOW X](https://github.com/ythecombinator/You-Dont-Know-X#javascript)
+- [12-Factor App](https://12factor.net/)
