@@ -24,6 +24,8 @@
 - [ ] [Four steps to Google without a degree](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e)
 - [ ] [Links about Machine Learning](https://github.com/CodingTrain/Machine-Learning)
 - [ ] [Nature of Code](http://natureofcode.com/)
+- [ ] [Build yourself a Linux](https://github.com/MichielDerhaeg/build-linux)
+- [ ] [Crypto for Kids](https://github.com/sustrik/crypto-for-kids)
 
 ## Articles
 - [ ] [The programming talent myth](https://lwn.net/Articles/641779/)
