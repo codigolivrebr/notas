@@ -26,6 +26,7 @@
 - [ ] [Nature of Code](http://natureofcode.com/)
 - [ ] [Build yourself a Linux](https://github.com/MichielDerhaeg/build-linux)
 - [ ] [Crypto for Kids](https://github.com/sustrik/crypto-for-kids)
+- [ ] [Berkeley Intro to AI](http://ai.berkeley.edu/home.html)
 
 ## Articles
 - [ ] [The programming talent myth](https://lwn.net/Articles/641779/)
