@@ -35,6 +35,7 @@
 - [ ] [Are there any programming concepts not yet implemented? What are they?](https://www.quora.com/Are-there-any-programming-concepts-not-yet-implemented-What-are-they)
 - [ ] [Where's the best place to learn Smalltalk online?](https://www.quora.com/Wheres-the-best-place-to-learn-Smalltalk-online)
 - [ ] [On Smalltalk browser](http://onsmalltalk.com/on-the-smalltalk-browser)
+- [ ] [Up and Down the Ladder of Abstraction](http://worrydream.com/LadderOfAbstraction/)
 
 ## Talks
 - [ ] [Programming is Forgetting: Toward a New Hacker Ethic](http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/)
