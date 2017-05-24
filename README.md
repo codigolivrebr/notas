@@ -27,6 +27,7 @@
 - [ ] [Build yourself a Linux](https://github.com/MichielDerhaeg/build-linux)
 - [ ] [Crypto for Kids](https://github.com/sustrik/crypto-for-kids)
 - [ ] [Berkeley Intro to AI](http://ai.berkeley.edu/home.html)
+- [ ] [NodeSchool](https://nodeschool.io/)
 
 ## Articles
 - [ ] [The programming talent myth](https://lwn.net/Articles/641779/)
