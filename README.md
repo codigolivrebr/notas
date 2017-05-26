@@ -49,4 +49,5 @@
 - [YOU DON'T KNOW X](https://github.com/ythecombinator/You-Dont-Know-X#javascript)
 - [12-Factor App](https://12factor.net/)
 - [100M books](http://www.100millionbooks.org/)
+- [Pagar.me Lambda](https://github.com/pagarme/lambda)
 - [Interactive Mind Map for learning anything](https://github.com/nikitavoloboev/knowledge-map)
