@@ -28,6 +28,7 @@
 - [ ] [Crypto for Kids](https://github.com/sustrik/crypto-for-kids)
 - [ ] [Berkeley Intro to AI](http://ai.berkeley.edu/home.html)
 - [ ] [NodeSchool](https://nodeschool.io/)
+- [ ] [Writing a Unix Shell](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
 
 ## Articles
 - [ ] [The programming talent myth](https://lwn.net/Articles/641779/)
@@ -52,3 +53,4 @@
 - [100M books](http://www.100millionbooks.org/)
 - [Pagar.me Lambda](https://github.com/pagarme/lambda)
 - [Interactive Mind Map for learning anything](https://github.com/nikitavoloboev/knowledge-map)
+- [Programming Quiz](https://quiz.triplebyte.com/)
