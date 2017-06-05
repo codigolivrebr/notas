@@ -18,6 +18,7 @@
 - [ ] [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
 - [ ] [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire (1991)](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.125)
 - [ ] [Introduction to Functional Programming](https://www.amazon.com/Introduction-Functional-Programming-International-Computing/dp/0134841891)
+- [ ] [Ask HN: Language agnostic programming books](https://news.ycombinator.com/item?id=14486657)
 - [ ] [Prolog programming: a do-it-yourself course for beginners](http://cs.union.edu/~striegnk/courses/esslli04prolog/)
 - [ ] [PureScript by Example](https://leanpub.com/purescript/read)
 - [ ] [Google  Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
