@@ -30,6 +30,7 @@
 - [ ] [Berkeley Intro to AI](http://ai.berkeley.edu/home.html)
 - [ ] [NodeSchool](https://nodeschool.io/)
 - [ ] [Writing a Unix Shell](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
+- [ ] [Reverse Engineering guide for beginners: Methodology and tools](https://0x00sec.org/t/re-guide-for-beginners-methodology-and-tools/2242)
 
 ## Articles
 - [ ] [The programming talent myth](https://lwn.net/Articles/641779/)
