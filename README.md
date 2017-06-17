@@ -32,6 +32,7 @@
 - [ ] [Writing a Unix Shell](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
 - [ ] [Reverse Engineering guide for beginners: Methodology and tools](https://0x00sec.org/t/re-guide-for-beginners-methodology-and-tools/2242)
 - [ ] [Beginner's Guide to Linkers](http://www.lurklurk.org/linkers/linkers.html)
+- [ ] [Learn You Some Erlang for great good!](http://learnyousomeerlang.com/)
 
 
 ## Articles
