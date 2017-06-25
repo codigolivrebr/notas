@@ -33,7 +33,7 @@
 - [ ] [Reverse Engineering guide for beginners: Methodology and tools](https://0x00sec.org/t/re-guide-for-beginners-methodology-and-tools/2242)
 - [ ] [Beginner's Guide to Linkers](http://www.lurklurk.org/linkers/linkers.html)
 - [ ] [Learn You Some Erlang for great good!](http://learnyousomeerlang.com/)
-
+- [ ] [Docker para desenvolvedores](https://github.com/gomex/docker-para-desenvolvedores)
 
 ## Articles
 - [ ] [The programming talent myth](https://lwn.net/Articles/641779/)
@@ -44,6 +44,7 @@
 - [ ] [On Smalltalk browser](http://onsmalltalk.com/on-the-smalltalk-browser)
 - [ ] [Up and Down the Ladder of Abstraction](http://worrydream.com/LadderOfAbstraction/)
 - [ ] [Why Elixr](http://theerlangelist.com/article/why_elixir)
+- [ ] [How LZ4 works](https://ticki.github.io/blog/how-lz4-works/)
 
 ## Talks
 - [ ] [Programming is Forgetting: Toward a New Hacker Ethic](http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/)
