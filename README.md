@@ -34,6 +34,7 @@
 - [ ] [Beginner's Guide to Linkers](http://www.lurklurk.org/linkers/linkers.html)
 - [ ] [Learn You Some Erlang for great good!](http://learnyousomeerlang.com/)
 - [ ] [Docker para desenvolvedores](https://github.com/gomex/docker-para-desenvolvedores)
+- [ ] [@joearms Crypto Tutorial](https://github.com/joearms/crypto_tutorial)
 
 ## Articles
 - [ ] [The programming talent myth](https://lwn.net/Articles/641779/)
