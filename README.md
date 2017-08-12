@@ -48,6 +48,7 @@
 - [ ] [Why Elixr](http://theerlangelist.com/article/why_elixir)
 - [ ] [How LZ4 works](https://ticki.github.io/blog/how-lz4-works/)
 - [ ] [How to read and understand a scientific paper: a guide for non-scientists](http://blogs.lse.ac.uk/impactofsocialsciences/2016/05/09/how-to-read-and-understand-a-scientific-paper-a-guide-for-non-scientists/)
+- [ ] [Creating domain-specific languages in Julia using macros](https://julialang.org/blog/2017/08/dsl)
 
 ## Talks
 - [ ] [Programming is Forgetting: Toward a New Hacker Ethic](http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/)
