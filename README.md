@@ -38,6 +38,7 @@
 - [ ] [Eloquent JavaScript](http://eloquentjavascript.net/)
 - [ ] [Rust by Example](https://github.com/rust-lang/rust-by-example)
 - [ ] [SVG can do THAT?](http://slides.com/sdrasner/svg-can-do-that/)
+- [ ] [The Rust Programming Language (book)](https://github.com/rust-lang/book)
 
 ## Articles
 - [ ] [The programming talent myth](https://lwn.net/Articles/641779/)
