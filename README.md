@@ -35,7 +35,9 @@
 - [ ] [Learn You Some Erlang for great good!](http://learnyousomeerlang.com/)
 - [ ] [Docker para desenvolvedores](https://github.com/gomex/docker-para-desenvolvedores)
 - [ ] [@joearms Crypto Tutorial](https://github.com/joearms/crypto_tutorial)
+- [ ] [Eloquent JavaScript](http://eloquentjavascript.net/)
 - [ ] [Rust by Example](https://github.com/rust-lang/rust-by-example)
+- [ ] [SVG can do THAT?](http://slides.com/sdrasner/svg-can-do-that/)
 
 ## Articles
 - [ ] [The programming talent myth](https://lwn.net/Articles/641779/)
