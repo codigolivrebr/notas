@@ -39,6 +39,8 @@
 - [ ] [Rust by Example](https://github.com/rust-lang/rust-by-example)
 - [ ] [SVG can do THAT?](http://slides.com/sdrasner/svg-can-do-that/)
 - [ ] [The Rust Programming Language (book)](https://github.com/rust-lang/book)
+- [ ] [Writing a sqlite clone from scratch in C](https://github.com/cstack/db_tutorial)
+- [ ] [The little book about OS development](https://littleosbook.github.io/)
 
 ## Articles
 - [ ] [The programming talent myth](https://lwn.net/Articles/641779/)
