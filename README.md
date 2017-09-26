@@ -42,6 +42,7 @@
 - [ ] [Writing a sqlite clone from scratch in C](https://github.com/cstack/db_tutorial)
 - [ ] [The little book about OS development](https://littleosbook.github.io/)
 - [ ] [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
+- [ ] [Tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
 
 ## Articles
 - [ ] [The programming talent myth](https://lwn.net/Articles/641779/)
