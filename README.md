@@ -61,6 +61,7 @@
 - [ ] [Programming is Forgetting: Toward a New Hacker Ethic](http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/)
 - [ ] [Bret Victor - The Future of Programming](https://vimeo.com/71278954) | [Reference](http://worrydream.com/dbx/)
 ## Extra
+- [DevFreeBooks](https://devfreebooks.github.io/) - A collection of free books for developers
 - [Front-end Guide](https://github.com/grab/front-end-guide) - :books: Study guide and introduction to the modern front end stack.
 - [study path](https://github.com/joebew42/study-path) - A study path about Clean Code, TDD, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture
 - [musicforprogramming](https://musicforprogramming.net/?one)
