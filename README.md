@@ -75,3 +75,4 @@
 - [Interactive Mind Map for learning anything](https://github.com/nikitavoloboev/knowledge-map)
 - [Programming Quiz](https://quiz.triplebyte.com/)
 - [Start Learning Elixir](https://startlearningelixir.com/)
+- [Trabalhando Remoto](https://github.com/DyegoCosta/trabalhando-remoto)
