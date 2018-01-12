@@ -43,6 +43,8 @@
 - [ ] [The little book about OS development](https://littleosbook.github.io/)
 - [ ] [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
 - [ ] [Tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
+- [ ] [A list of practical projects to solve](https://github.com/karan/Projects)
+- [ ] [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
 
 ## Articles
 - [ ] [The programming talent myth](https://lwn.net/Articles/641779/)
