@@ -79,3 +79,4 @@
 - [Start Learning Elixir](https://startlearningelixir.com/)
 - [Trabalhando Remoto](https://github.com/DyegoCosta/trabalhando-remoto)
 - [Ask HN: How do you stop yourself from stagnating?](https://news.ycombinator.com/item?id=16053578)
+- [Quora: How do I learn algorithms?](https://www.quora.com/How-do-I-learn-algorithms-Provide-material-if-possible/answer/Sief-Khafagi)
