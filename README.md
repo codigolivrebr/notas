@@ -83,3 +83,4 @@
 - [Quora: How do I learn algorithms?](https://www.quora.com/How-do-I-learn-algorithms-Provide-material-if-possible/answer/Sief-Khafagi)
 - [Talk Transcripts](https://github.com/matthiasn/talk-transcripts)
 - [Category Theory for Programmers](https://github.com/onlurking/category-theory-for-programmers)
+- [Must-See Tech Talks for Every Programmer](https://www.ybrikman.com/writing/2014/05/29/must-see-tech-talks-for-every-programmer/)
