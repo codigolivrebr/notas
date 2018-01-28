@@ -45,6 +45,7 @@
 - [ ] [Tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
 - [ ] [A list of practical projects to solve](https://github.com/karan/Projects)
 - [ ] [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
+- [ ] [Getting Started in *Lisp (1991)](http://people.csail.mit.edu/bradley/cm5docs/nov06/GettingStartedinStarLisp.pdf)
 
 ## Articles
 - [ ] [The programming talent myth](https://lwn.net/Articles/641779/)
