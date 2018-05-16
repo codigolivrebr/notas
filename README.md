@@ -46,6 +46,7 @@
 - [ ] [A list of practical projects to solve](https://github.com/karan/Projects)
 - [ ] [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
 - [ ] [Getting Started in *Lisp (1991)](http://people.csail.mit.edu/bradley/cm5docs/nov06/GettingStartedinStarLisp.pdf)
+- [ ] [How to Design Programs](http://htdp.org/)
 
 ## Articles
 - [ ] [The programming talent myth](https://lwn.net/Articles/641779/)
