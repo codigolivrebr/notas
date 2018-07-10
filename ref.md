@@ -49,6 +49,7 @@
 - [ ] [How to Design Programs](http://htdp.org/)
 - [ ] [Google Codelabs](https://codelabs.developers.google.com/)
 - [ ] [Floating Point Math](http://0.30000000000000004.com/)
+- [ ] [How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)
 
 ## Articles
 - [ ] [The programming talent myth](https://lwn.net/Articles/641779/)
